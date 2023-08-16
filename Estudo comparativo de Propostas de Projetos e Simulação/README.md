@@ -1,1 +1,1 @@
-This Dashboard consists in a comparative study of the cost of several project proposals from different suppliers and different disciplines. The values ​​were updated by the IPCA and INCC, which are indices that represent inflation.
+This Dashboard consists in a comparative study of the cost of several project proposals from different suppliers and different disciplines. The values ​​were updated by the IPCA and INCC, which are indices that represent inflation. In addition, the last page is a simulation of expenses with projects having as a parameter the total built area.
